@@ -39,7 +39,7 @@
 ---
 
 ## 📂 Pinned Projects
-- 🚀 [Java Login UI](https://github.com/YOUR_USERNAME/login-ui)
+- - 🎓 [University Event Management - Java Desktop App](https://github.com/mdsajid/EventSphere)
 - 📚 [C++ Data Structures](https://github.com/YOUR_USERNAME/cpp-data-structures)
 - 🌐 [Portfolio Website](https://github.com/YOUR_USERNAME/portfolio)
 
